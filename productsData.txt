@@ -1,0 +1,20 @@
+[{productId: "1",
+name: "Hp Laptop",
+bradName: "HP",
+original price: "10000"
+},
+{productId: "2",
+name: "Dell Laptop",
+bradName: "Dell",
+original price: "20000"
+},
+{productId: "3",
+name: "ACER Laptop",
+bradName: "Acer",
+original price: "30000"
+},
+{productId: "4",
+name: "Apple Laptop",
+bradName: "Apple",
+original price: "10000"
+}]
