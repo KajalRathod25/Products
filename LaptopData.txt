@@ -17,4 +17,9 @@ original price: "30000"
 name: "Apple Laptop",
 bradName: "Apple",
 original price: "10000"
+},
+{productId: "5",
+name: "HP Laptop",
+bradName: "HP",
+original price: "20000"
 }]
